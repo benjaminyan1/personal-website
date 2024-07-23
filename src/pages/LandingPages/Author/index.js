@@ -37,7 +37,6 @@ import Footer from "pages/LandingPages/Author/sections/Footer";
 
 // Images
 import bgImage from "assets/images/dukebanner.jpeg";
-import { FormatAlignJustify } from '@mui/icons-material';
 
 function Author() {
   const projectsRef = useRef(null);

@@ -19,7 +19,7 @@ Coded by www.creative-tim.com
  * You can customized the colors for the entire Material Kit 2 React using thie file.
  */
 
-export default {
+const colors = {
   background: {
     default: "#f0f2f5",
   },
@@ -259,3 +259,4 @@ export default {
     indicator: { boxShadow: "#ddd" },
   },
 };
+export default colors;

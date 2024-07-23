@@ -23,13 +23,13 @@ import MKTypography from "components/MKTypography";
 
 // Material Kit 2 React components
 import TransparentBlogCard from "examples/Cards/BlogCards/TransparentBlogCard";
-import BackgroundBlogCard from "examples/Cards/BlogCards/BackgroundBlogCard";
+
 
 // Images
 import corn from "assets/images/illustrations/corndisease.jpeg";
 import govn from "assets/images/illustrations/cabinet.jpg";
 import fball from "assets/images/illustrations/nfl.jpeg";
-import post4 from "assets/images/examples/blog2.jpg";
+
 
 function Places() {
   const posts = [
